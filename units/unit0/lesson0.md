@@ -40,4 +40,5 @@ Suppose you are creating a chat client and you are adding a feature that lets ad
 ## References
 
 [0] - http://www.mosaicinc.com/mosaicinc/rmThisMonth.asp
+
 [1] - https://www.altexsoft.com/media/2016/10/Quality-Assurance-Quality-Control-and-Testing-%E2%80%94-the-Basics-of-Software-Quality-Management-Whitepaper.pdf
