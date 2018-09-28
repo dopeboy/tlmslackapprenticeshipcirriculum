@@ -37,8 +37,11 @@ In software, the same process applies. The QA team will examine a requirement, p
 ## Exit ticket
 
 Suppose you are creating a chat client and you are adding a feature that lets admins delete each other's posts (as opposed to just their own). What sort of tests would you write?
-## References
+
+## References & Additional Reading
 
 [0] - http://www.mosaicinc.com/mosaicinc/rmThisMonth.asp
 
 [1] - https://www.altexsoft.com/media/2016/10/Quality-Assurance-Quality-Control-and-Testing-%E2%80%94-the-Basics-of-Software-Quality-Management-Whitepaper.pdf
+
+[2] - https://testing.googleblog.com/2007/03/difference-between-qa-qc-and-test.html
