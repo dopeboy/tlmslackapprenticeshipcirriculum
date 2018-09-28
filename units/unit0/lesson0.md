@@ -1,4 +1,4 @@
-# Lesson 0: Intro to QA
+# Lesson 0: QA vs QC vs Testing
 
 In this lesson, we will go over what Quality Assurance (QA), Quality Control (QC), and Testing is. Throughout this lesson, references will be made to a fictional chair company called Chairs Inc.
 
@@ -34,6 +34,7 @@ In software, the same process applies. The QA team will examine a requirement, p
 
 <img src='https://i.imgur.com/VLK09As.png'/> [1]
 
+
 ## Exit ticket
 
 Suppose you are creating a chat client and you are adding a feature that lets admins delete each other's posts (as opposed to just their own). What sort of tests would you write?
@@ -44,4 +45,4 @@ Suppose you are creating a chat client and you are adding a feature that lets ad
 
 [1] - https://www.altexsoft.com/media/2016/10/Quality-Assurance-Quality-Control-and-Testing-%E2%80%94-the-Basics-of-Software-Quality-Management-Whitepaper.pdf
 
-[2] - https://testing.googleblog.com/2007/03/difference-between-qa-qc-and-test.html
+https://testing.googleblog.com/2007/03/difference-between-qa-qc-and-test.html
