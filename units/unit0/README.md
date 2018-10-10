@@ -4,4 +4,4 @@
 |[**0**](lesson0.md)| 30 | Define and identify the differences between QA, QC, and Testing.|
 |[**1**](lesson1.md)| 30 | Justify the value of QA. |
 |[**2**](lesson2.md)| 45 | Define and identify the different kinds of testing.|
-|[**2**](lesson3.md)| 30 | Write a test plan.|
+|[**3**](lesson3.md)| 30 | Write a test plan.|
