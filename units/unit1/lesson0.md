@@ -1,4 +1,4 @@
-# Lesson 0:  Frontend testing tools
+# Lesson 0:  Frontend testing tools for the web
 
 We use a suite of tools to test web applications. In this lesson, we'll talk about the types of tools that come in a suite and a brief overview of how they work.
 
