@@ -17,6 +17,8 @@ For the visual test, you will need to create an account on [Applitools](https://
 ## References & Additional Reading
 
 [0] - https://hackernoon.com/testing-your-frontend-code-part-iii-e2e-testing-e9261b56475
+
 [1] - https://hackernoon.com/testing-your-frontend-code-part-v-visual-testing-935864cfb5c7
+
 [2] - https://applitools.com/tutorials/selenium-javascript.html#quick-start-🚀
 
