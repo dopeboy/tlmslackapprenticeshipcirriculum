@@ -53,3 +53,5 @@ Let's get a basic handle on Ruby. Use [repl.it](https://repl.it/languages/ruby) 
 ## References & Additional Reading
 
 [0] - https://medium.com/learning-to-code/ruby-vs-javascript-a-quick-comparison-ebd3b63ebc49
+
+[1] - https://medium.com/front-end-hacking/differences-between-ruby-and-javascript-58c580e94570
