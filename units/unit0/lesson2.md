@@ -72,6 +72,14 @@ If we're building a chair, we care about the user's comfort and whether it is er
 
 If we're building our user registration module, we care whether our users can understand our front end form easily. Do we have validation to assist when they choose a weak password? How is the validation performed: on the frontend so they are immediately made aware (but perhaps more stress inducing) or throught the backend where there's a longer delay? Design and user experience, among other disciplines, are pulled in for usability testing.
 
+### Accessibility
+
+Accessibility testing is a subset of usability testing. It is done so "...that the application being tested is usable by people with disabilities like hearing, color blindness, old age and other disadvantaged groups" [6]. One classic accessibility test is to verify screen reader compatibility. Screen readers will narrate over a page so that visually impaired users can still use it.
+
+### Localization
+
+When a product is made for an international audience, foreign speakers are consulted to perform translation services. Many times, as words or phrases are embedded into a product, the context can completely throw off their placement. Some languages use character sets that occupy a lot of screen real estate which might lead to cut off text or readabiity issues. This is where QA testing with foreign language experts is needed [7].
+
 ### Security
 
 Assessing the security of a system is an entire field in itself. Most organizations have internal teams devoted to performing security testing. There has been a growing trend to separate security  testing from quality assurance. We encourage the reader to pursue further reading here.
@@ -99,3 +107,7 @@ Suppose you are creating a mobile app like Instagram. Write all the functional a
 [4] - https://www.guru99.com/non-functional-testing.html
 
 [5] - https://www.interaction-design.org/literature/topics/usability-testing
+
+[6] - https://www.guru99.com/accessibility-testing.html
+
+[7] - https://www.welocalize.com/6-reasons-localization-qa-testing-important/
