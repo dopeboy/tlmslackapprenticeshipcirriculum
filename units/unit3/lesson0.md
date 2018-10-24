@@ -6,7 +6,7 @@ We'll cover the major differences between Ruby and JavaScript. We'll then get pr
 
 ### Structural
 
-* Ruby is used to power a lot of web backends using the [Ruby on Rails](https://rubyonrails.org/) framework. JavaScript powers the frontend of all modern web applications. It is supported by every browser in the world making it the most popular programming language. It can also be used in the backend using frameworks like Node.JS.
+* Ruby is used to power a lot of web backends typically using the [Ruby on Rails](https://rubyonrails.org/) framework. JavaScript powers the frontend of all modern web applications. It is supported by every browser in the world making it the most popular programming language. It can also be used in the backend using frameworks like Node.JS.
 
 * Everything is an object in Ruby. In JavaScript, there are primitives (booleans, numbers, strings, etc) and there are objects too.
 
