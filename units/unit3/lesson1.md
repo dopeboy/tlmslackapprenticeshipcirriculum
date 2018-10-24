@@ -1,4 +1,4 @@
-# Lesson 0:  Introduction to PHP
+# Lesson 1:  Introduction to PHP
 
 We'll cover the major differences between javaScript and PHP. We'll then get practice writing a simple program in PHP.
 
