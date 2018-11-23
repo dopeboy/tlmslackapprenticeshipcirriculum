@@ -12,7 +12,7 @@ Take a couple minutes to play around with the app and familiarize yourself with 
 
 In each *.test.js file, you will find 1-2 sample tests. Write 3-4 more additional tests in each file.
 
-For the visual test, you will need to create an account on [Applitools](https://applitools.com/) and insert your API key on line 22. It is worth reading [1] and [2] to understand how Applitools works before writing your own test.
+For the visual test, you will need to create an account on [Applitools](https://applitools.com/) and insert your API key on line 22 of `tests/visual.test.js`. It is worth reading [1] and [2] to understand how Applitools works before writing your own test.
 
 ## References & Additional Reading
 
