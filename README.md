@@ -1,4 +1,4 @@
-# tlmslackapprenticeshipcirriculum
+# tlmslackapprenticeshipcurriculum
 
 This is the curriculum for the [TLM-Slack](https://slackhq.com/next-chapter-a-pilot-program-aiming-to-help-formerly-incarcerated-individuals-find-work-and-succeed-in-tech) apprenticeship program. It is intended to be account for four weeks of training time. The instructor is encouraged to supplement this training with hands-on projects (not included) so that students can apply what they learn.
 
